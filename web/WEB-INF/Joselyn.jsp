@@ -12,6 +12,10 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <p>Hola soy jocelyn  y estoy probando el GIT</p>
+        <div>
+            <nav></nav>
+        </div>
         <h1>Hello World!</h1>
     </body>
 </html>
