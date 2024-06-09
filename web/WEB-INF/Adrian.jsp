@@ -12,6 +12,10 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <p>Hola soy Adrian  y chupeme un huevo /p>
+        <div>
+            <nav></nav>
+        </div>
         <h1>Hello World!</h1>
     </body>
 </html>
